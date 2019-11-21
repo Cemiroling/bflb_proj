@@ -1,0 +1,4 @@
+#Thu Nov 21 12:18:04 MSK 2019
+base.0=C\:\\Users\\User\\Desktop\\bflb\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
